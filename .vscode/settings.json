@@ -1,6 +1,8 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "/home/ongraph/Downloads/mysql-connector-java-8.0.22.jar"
+        "/home/ongraph/Downloads/mysql-connector-java-8.0.22.jar",
+        "/home/ongraph/Downloads/javax.servlet-api-3.0.1.jar",
+        "javax.servlet-api-3.0.1.jar"
     ]
 }
